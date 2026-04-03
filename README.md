@@ -31,7 +31,7 @@ This is a universal remote controller for almost any remote device e.g. Planes,d
 
 ![v](Images/Rece_sche.png)
 
-![kj](Images/PCB_frn.jpg)
+
 
 ![fvg](Images/PCB_bck.png)
 
