@@ -1,11 +1,11 @@
 # Transceiver_101
 This is a universal remote controller for almost any remote device e.g. Planes,drones,boats or rc cars. It can be mounted and set up in any custom project the needs remote controlling.
 ---
-![Exploded](Images/Exploded.png)
+![](Images/Exploded.png)
 
-![Back_ex](Images/Back.png)
+![](Images/Back.png)
 
-![Overall front](Images/Overall.png)
+
 
 
 # Key Features 
@@ -18,28 +18,30 @@ This is a universal remote controller for almost any remote device e.g. Planes,d
 
 -up to 2.5km range 
 
+-2 customizable toggle switch
+
 -Custom code to change as needed
 
 
 # Images
 
-![](Images/Side.png)
+![h](Images/Side.png)
 
 ![](Images/Trans_sche.png)
 
-![](Images/Rece_sche.png)
+![v](Images/Rece_sche.png)
 
-![](Images/PCB_frn.jpg)
+![kj](Images/PCB_frn.jpg)
 
-![](Images/PCB_bck.png)
+![fvg](Images/PCB_bck.png)
 
-![](Images/transmitter.png)
+![g](Images/transmitter.png)
 
-![](Images/receiver.png)
+![b](Images/receiver.png)
 
 There is a notch that shuold be kept in mind. 
 
-![](Images/Notch.png)
+![b](Images/Notch.png)
 
 # BOM
 
@@ -64,6 +66,8 @@ parts used in this project
 - 2.4G Antenna Adapter Cable X1
 
 -Toggle switch with plastic cover X1
+
+-Normal toggle switch X2
 
 -Male Headers X1
 
