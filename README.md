@@ -45,31 +45,23 @@ There is a notch that shuold be kept in mind.
 
 # BOM
 
-parts used in this project
-
--Arduino Nano X2
-
-- NRF24L01+PA+LN 100mW (E01-ML01DP5) X1
-
--NRF24L01+PA+Wireless SMD X1
-
--100uF (16V or above) electrolytic capacitors X2
-
--10uF electrolytic capacitors X2
-
--100nF (104) ceramic capacitor X2
-
--100nF (104) ceramic capacitor X2
-
--2×4 pin Header X2
-
-- 2.4G Antenna Adapter Cable X1
-
--Toggle switch with plastic cover X1
-
--Normal toggle switch X2
-
--Male Headers X1
+| Name | Purpose | Quantity |
+| :--- | :--- | :--- |
+| **Toggle switch** | Master power | 1 |
+| **PCB** | Circuit board | 2 |
+| **Enclosure** | The casing | 1 |
+| **Battery** | Power | 2 |
+| **Male headers** | Connection | 8 |
+| **Female Headers** | Mounting | 56 |
+| **100nf capacitor** | Voltage capping | 4 |
+| **10uf capacitor** | Voltage regulation | 2 |
+| **100uf capacitor** | Voltage regulation | 2 |
+| **Arduino Nano** | MCU | 2 |
+| **Antenna** | Receiver antenna | 1 |
+| **Receiver Module** | Radio transmission | 1 |
+| **LM1117T-3.3** | Voltage regulator | 2 |
+| **Toggle switch** | Channel switch | 2 |
+| **PS4 Analog** | Controlling | 2 |
 
 # Firmware
 This remote and receiver uses C++ that is for arduino IDE
